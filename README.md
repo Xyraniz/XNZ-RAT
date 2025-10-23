@@ -24,3 +24,15 @@ Actualizaciones remotas automáticas, configuración dinámica, mecanismos de au
 **Aplicaciones Específicas**
 Acceso persistente en entornos corporativos, recolección de activos digitales, operaciones financieras especializadas, gestión centralizada de múltiples objetivos.
 
+
+**Puntos Claves Esenciales:**
+
+- **Persistencia Extrema**: Sobrevive a formateos mediante infección del MBR y técnicas sin archivos
+- **Robo Especializado**: Extrae criptomonedas, contraseñas y datos financieros de forma dirigida
+- **Evasión Avanzada**: Motor polimórfico y 9 técnicas anti-detección para evitar análisis
+- **Comunicación Encubierta**: Usa Discord como canal principal con DNS tunneling de respaldo
+- **Propagación Autónoma**: Se expande automáticamente por USB y redes locales
+- **Control Total**: Acceso completo remoto incluyendo cámara y pantalla en tiempo real
+- **Auto-protección**: Mecanismos contra eliminación y detección de herramientas de seguridad
+- **Actualizaciones Remotas**: Sistema de mantenimiento y mejora continua automática
+- **Arquitectura Modular**: Diseño expandible para nuevas capacidades y especializaciones
